@@ -69,15 +69,6 @@ Get your token from: https://huggingface.co/settings/tokens
 
 ```bash
 streamlit run app.py
-```
-
----
-
-## 📸 Screenshots
-
-_(Optional – you can add screenshots later here)_
-
----
 
 ## 📜 License
 
